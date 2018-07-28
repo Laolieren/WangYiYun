@@ -1,7 +1,7 @@
 import requests
 from lxml import etree
 import json
-# zhe
+# 你好呀
 class WangYiYun(object):
     def __init__(self):
         """
