@@ -1,7 +1,7 @@
 import requests
 from lxml import etree
 import json
-# shishisads
+# shi
 class WangYiYun(object):
     def __init__(self):
         """
